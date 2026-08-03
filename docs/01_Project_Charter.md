@@ -1,6 +1,9 @@
 AI Radar - Project Charter (Version 1.0)
+
 Project Name :AI Radar
+
 Tagline:Discover. Understand. Deliver. AI News, Intelligently.
+
 Document Information
 Field	Value
 Project Name	AI Radar
